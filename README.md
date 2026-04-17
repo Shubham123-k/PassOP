@@ -34,7 +34,7 @@ PassOP is a simple and secure password manager built using React. It allows user
 ![Dark Mode](./screenshots/dark-mode.png)
 
 ### 📱 Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/mobile-mode.png)
 
 ---
 
